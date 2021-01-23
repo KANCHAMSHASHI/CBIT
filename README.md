@@ -11,11 +11,10 @@
 
 **PROCEDURE FOR ORDERD LIST IS**
 1. UG
-
-  -DIPLOMA
-    -EEE
-    -CSE
-    -MECH
+  - DIPLOMA
+    - EEE
+    - CSE
+    - MECH
   - B.TECH
     - EEE
     - CIVIL
